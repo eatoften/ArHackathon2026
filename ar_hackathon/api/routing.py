@@ -4,8 +4,8 @@ Amazon Robotics Hackathon - Routing API
 Coordinated routing for weighted aisles, shared pickups, and limited docks.
 
 *****IMPORTANT*****
-Team name:
-Email address:
+Team name: Anything
+Email address: jackyfeng234@gmail.com, sjbw.fuzzy@gmail.com, laiyijia05@gmail.com, jordanyang2004@gmail.com
 *******************
 """
 
